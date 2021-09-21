@@ -1,0 +1,10 @@
+.App .Cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.App .Main-Title{
+  color: rgb(128, 79, 173);
+  font-weight: 400;
+}

@@ -1,0 +1,24 @@
+.ProductTable th{
+    background-color: #706902;
+    color:#fff
+  }
+  
+  .ProductTable table{
+   width: 100%;
+  }
+  
+  .ProductTable .Even {
+    background-color: #eee;
+  }
+  
+  .ProductTable .Odd {
+    background-color: #bbb;
+  }
+  
+  .ProductTable .Name {
+    text-align: left;
+  }
+  
+  .ProductTable .Price {
+    text-align: right;
+  }

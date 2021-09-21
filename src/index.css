@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(213, 183, 228);
+  color: rgb(182, 59, 59);
+  font-family: Oswald;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-weight: 200;
+}
+
+h2, h3 {
+  margin: 0;
+}
