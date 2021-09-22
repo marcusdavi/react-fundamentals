@@ -1,13 +1,11 @@
 import React, { cloneElement } from "react";
 
-export default function Family({lastname, children}) {
-  console.log(lastname)
+export default function Family(props) {
   return (
     <div>
-      {children.map((child, i) => {
+      {props.children.map((child, i) => {
         return cloneElement(child, {
-          firstname: child.props.firstname,
-          lastname: lastname,
+          ...props,
           key: i,
         });
       })}
