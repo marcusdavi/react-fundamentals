@@ -1,8 +1,9 @@
 body {
-  background-color: rgb(213, 183, 228);
+  background-color: #F1F7E7;
   color: rgb(182, 59, 59);
-  font-family: Roboto;
+  font-family: Oswald;
   text-align: center;
+
 }
 
 h1, h2, h3 {

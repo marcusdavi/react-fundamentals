@@ -1,0 +1,39 @@
+.Bet {
+  border: 1px solid olive;
+  margin: 10px;
+  padding: 10px;
+  display: flexbox;
+  border-radius: 20px;
+  background-color: rgb(206, 235, 206);
+}
+
+#BetButton {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: green;
+  color: greenyellow;
+  width: 80px;
+  height: 70px;
+}
+
+.Bet ul {
+  align-items: center;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-top: 5px;
+}
+
+.Bet li {
+  background-color: green;
+  color: greenyellow;
+  font-size: 1.2rem;
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  min-width: 25px;
+  border-radius: 50%;
+}
