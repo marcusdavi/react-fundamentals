@@ -89,7 +89,7 @@ export default function App() {
         <Card title="#14 - Megasena Bet Generator" color={COLOR_01}>
           <Bet/>
         </Card>
-        <Card title="#14 - Lotofácil Bet Generator" color={COLOR_01}>
+        <Card title="#15 - Lotofácil Bet Generator" color={COLOR_01}>
           <Bet title="Lotofácil" numbers={15} min={1} max={25}/>
         </Card>
       </div>
