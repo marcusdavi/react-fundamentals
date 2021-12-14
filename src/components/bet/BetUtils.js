@@ -12,7 +12,7 @@ export function generateBet(min, max, numbers) {
   const limit = max - min + 1;
 
   if (numbers <= limit) {
-    while (bet.length <= numbers) {
+    while (bet.length < numbers) {
       const newNumber = randomNumber(max, min);
       if (!bet.includes(newNumber)) {
         bet.push(newNumber);
