@@ -8,8 +8,7 @@ App with Review of the react fundamentals. "React + Redux Course: Fundamentals a
 4. Access "http://localhost:3000/"
 
 ## System Image
-![print-system](https://github.com/marcusdavi/react-fundamentals/blob/master/public/images/system-image-01.png)
-![print-system](https://github.com/marcusdavi/react-fundamentals/blob/master/public/images/system-image-02.png)
+![print-system](https://github.com/marcusdavi/react-fundamentals/blob/master/public/images/system-image-full.PNG)
 
 
 
